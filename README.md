@@ -153,7 +153,7 @@ We can see that the most common education level is bachelors degree.
 - Master's Degree: Salary range: $62197 - $122331
                     Roles: Predominantly managerial and specialized positions.
                     Trend: Significant salary boost compared to bachelor's degree indicating master's degree holders move into higher managerial roles.
-  - PhD: Salary range: $82403 - $127329
+- PhD: Salary range: $82403 - $127329
                     Roles: Highest positions including strategic and senior management roles.
                     Trend: Highest among all education levels, often in top managerial roles.
   
