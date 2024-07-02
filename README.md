@@ -123,6 +123,46 @@ We can see that the most common education level is bachelors degree.
 - Implement targeted performance improvement programs to assist those rated as "Need Improvement" to reach higher performance levels, ensuring their salary aligns with their contributions.
 - Conduct regular salary reviews to maintain competitivenes and fairness across all education levels and performance ratings.
 
+
+### 7. Distribution of performance ratings among employees
+![Screenshot 2024-07-02 at 11 39 59](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/02098e12-584f-4e80-906a-90035dbb064c)
+
+**Analysis**
+
+- The largest group lies under good which means the organization is doing well.
+- One third of the company has an excellent peformance
+- 11.3% of the employees needs improvement 
+
+**Recommendation**
+
+- Develop targeted training and devlopment programs for the 11.3% of employees.
+- Reward high performers which will help in maintaining high morale and retain top talents.
+- Consider promoting high-perorming individuals to leadership roles.
+- Establish achieveable performance goals and provide necessary resources and support to help employees meet these goals.
+
+###8. Impact of education level on career advancement
+![Screenshot 2024-07-02 at 11 51 02](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/8a58329b-7c12-4f28-b911-af707b728cf4)
+
+**Analysis**
+- High School Diploma: Salary range: $58878 - $70414
+                    Roles: Primarily entry-level and some intermediate positions.
+                    Trend: Lower salaries compared to bachelor's degree holders and roles are limited to non-managerial roles.
+- Bachelors Degree: Salary range: $62259 - $98002
+                    Roles: Wide variety from Customer service to operations occupying both entry to mid-high level roles.
+                    Trend: Higher salaries generally associated with management and specialized roles.
+- Master's Degree: Salary range: $62197 - $122331
+                    Roles: Predominantly managerial and specialized positions.
+                    Trend: Significant salary boost compared to bachelor's degree indicating master's degree holders move into higher managerial roles.
+  - PhD: Salary range: $82403 - $127329
+                    Roles: Highest positions including strategic and senior management roles.
+                    Trend: Highest among all education levels, often in top managerial roles.
+  
+
+**Recommendation**
+- The organziation can provide tuition reimbursement and support for employees pursuing higher education to promote career advancement
+- Offer targeted trainig and certification programs to help high school diploma holders advance to higher-paying roles withing the company.
+- Adjust salary structures to maintain fairness and encouragement to pursue further education and excel in theri roles.
+
 ### Recommendations
 Recommendatin goes here
 
