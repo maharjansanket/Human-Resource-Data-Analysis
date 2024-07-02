@@ -140,7 +140,7 @@ We can see that the most common education level is bachelors degree.
 - Consider promoting high-perorming individuals to leadership roles.
 - Establish achieveable performance goals and provide necessary resources and support to help employees meet these goals.
 
-###8. Impact of education level on career advancement
+### 8. Impact of education level on career advancement
 ![Screenshot 2024-07-02 at 11 51 02](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/8a58329b-7c12-4f28-b911-af707b728cf4)
 
 **Analysis**
@@ -159,12 +159,11 @@ We can see that the most common education level is bachelors degree.
   
 
 **Recommendation**
+
 - The organziation can provide tuition reimbursement and support for employees pursuing higher education to promote career advancement
 - Offer targeted trainig and certification programs to help high school diploma holders advance to higher-paying roles withing the company.
 - Adjust salary structures to maintain fairness and encouragement to pursue further education and excel in theri roles.
 
-### Recommendations
-Recommendatin goes here
 
 ### For a comprehensive understanding of the procedures, please refer the sql document available in the repository. If you need more detail or clarification on the project contact me on my email at @sanketech.maharjan@gmail.com
 
