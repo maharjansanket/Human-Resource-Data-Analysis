@@ -144,18 +144,18 @@ We can see that the most common education level is bachelors degree.
 ![Screenshot 2024-07-02 at 11 51 02](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/8a58329b-7c12-4f28-b911-af707b728cf4)
 
 **Analysis**
-- High School Diploma: Salary range: $58878 - $70414
-                    Roles: Primarily entry-level and some intermediate positions.
-                    Trend: Lower salaries compared to bachelor's degree holders and roles are limited to non-managerial roles.
+- High School Diploma: Salary range: $58878 - $70414 
+  Roles: Primarily entry-level and some intermediate positions.
+  Trend: Lower salaries compared to bachelor's degree holders and roles are limited to non-managerial roles.
 - Bachelors Degree: Salary range: $62259 - $98002
-                    Roles: Wide variety from Customer service to operations occupying both entry to mid-high level roles.
-                    Trend: Higher salaries generally associated with management and specialized roles.
+  Roles: Wide variety from Customer service to operations occupying both entry to mid-high level roles.
+  Trend: Higher salaries generally associated with management and specialized roles.
 - Master's Degree: Salary range: $62197 - $122331
-                    Roles: Predominantly managerial and specialized positions.
-                    Trend: Significant salary boost compared to bachelor's degree indicating master's degree holders move into higher managerial roles.
+  Roles: Predominantly managerial and specialized positions.
+  Trend: Significant salary boost compared to bachelor's degree indicating master's degree holders move into higher managerial roles.
 - PhD: Salary range: $82403 - $127329
-                    Roles: Highest positions including strategic and senior management roles.
-                    Trend: Highest among all education levels, often in top managerial roles.
+  Roles: Highest positions including strategic and senior management roles.
+  Trend: Highest among all education levels, often in top managerial roles.
   
 
 **Recommendation**
