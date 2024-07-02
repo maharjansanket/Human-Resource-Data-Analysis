@@ -38,15 +38,43 @@ The data used in this d project is generated using a combination of ChatGPT prom
 ### 1. Gender distribution across different departments
 ![Screenshot 2024-07-02 at 09 18 14](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/4e8b0c2d-6735-41fb-9de4-1c5044bdc268)
 
-Analysis 
+**Analysis**
 - IT and Operations department have higher male representation.
 - Other departments have relatively balanced gender
 
-Recommentations
+**Recommentations**
 - Encourage female applicants for IT and Opearations roles to reduce gender gaps.
 
+### 2. Most common education level among employees in each department
 
+![Screenshot 2024-07-02 at 09 33 59](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/2f423dd3-e27e-4a5c-a40a-35e6ad4295d8)
 
+**Analysis**
+We can see that the most common education level is bachelors degree.
+1. Customer Service : Bachelor (846)
+2. Finance: Bachelor (341)
+3. HR: Bachelor (89)
+4. IT: Bachelor (679)
+5. Marketing: Bachelor (466)
+6. Operations: Bachelor (1905)
+7. Sales: Bachelor (1090)
+
+**Recommendation**
+
+- In departments like IT and Sales where there's a substantial number of employees with higher education (master's, PhD), the organization can implement advanced training modules and leadership development programs.
+- We can also identify potential gaps in job satisfaction and career development opportunities among employees with different education levels, and tailor retention strategies accordingly.
+
+### 3. Correlation of education level with job titles and salary
+
+![Screenshot 2024-07-02 at 09 36 11](https://github.com/maharjansanket/Human-Resource-Data-Analysis/assets/25703361/f07f0056-70e1-4676-b1df-5eeb9d033e81)
+
+**Analysis** 
+- Generally higher education level correlate with higher average salaries across various job titles.
+- We can see that PhD holders occupy higehr level managerial and specialists positions and have highest salary ranges and high school graduates tend to have roles like conent creator, customer service with lower salaries ranging from $58878 to $70414.
+
+**Recommendation**
+- Encouragement to employees to pursue higher education.
+- The HR should recruit candidates with masters or PhD if the roles requires higher expertise and should offer higher salaries.
 
 
 ### Recommendations
